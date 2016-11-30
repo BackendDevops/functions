@@ -1,3 +1,4 @@
+<?php
 /*Finds Image Types*/
 function findtype($inputname) {
     $uzanti = null;
@@ -19,6 +20,6 @@ function findtype($inputname) {
 $input="filename";
 echo findtype($input);
 returns 
-.jpg,.png,.bmp,.tiff
+.jpg,.png,.bmp,.tiff*/
 
 
